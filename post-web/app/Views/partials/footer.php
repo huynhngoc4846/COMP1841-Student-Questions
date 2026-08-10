@@ -1,0 +1,1 @@
+</main><footer class="border-top bg-white py-4 mt-5"><div class="container text-muted small">Student Q&A coursework prototype · PHP PDO and MySQL</div></footer><script src="<?= PUBLIC_FOLDER ?>/assets/libs/bootstrap/js/bootstrap.bundle.min.js"></script></body></html>
